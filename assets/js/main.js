@@ -147,7 +147,7 @@ themeButton.addEventListener('click', () => {
 const sr = ScrollReveal({
     distance: '60px',
     duration: 2800,
-    // reset: true
+    reset: true
 })
 
 sr.reveal(`.home__data, .home__social-link, .home__info,
